@@ -14,7 +14,7 @@ AID·CAM is an AI dental CAD platform. We replace the slowest step in restorativ
 
 Most digital dentistry has matured over the last decade. Intraoral scanning is fast and precise; milling is fast and precise. But the design step in between still runs case by case, in legacy CAD, and trains over months. We compress that step from thirty to sixty minutes of technician time down to roughly two minutes of conversation, while leaving the dentist as the author of every restoration.
 
-The company is led by a clinician-founder team. Our Founding Clinical Advisor is a practicing prosthodontist with decades of chairside crown design experience.
+The company is led by two co-founders — a clinical co-founder (final-year dentistry student) and an ML / engineering co-founder (UW–Madison CS + Math, previously at Discover Financial Services). Our Founding Clinical Advisor is a practicing prosthodontist with decades of chairside crown design experience.
 
 ---
 
